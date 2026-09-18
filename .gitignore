@@ -1,0 +1,6 @@
+__pycache__/
+*.db
+progress.json
+.qbraid_token.json
+.tutor_model.json
+.streamlit/secrets.toml
